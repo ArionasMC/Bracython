@@ -1,0 +1,5 @@
+from dadlib import dadf
+
+def test2(a) {
+	print("testing 2 "+a)
+}

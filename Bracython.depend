@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1663753417 source:c:\users\nickm\documents\cppprojects\eclipse\bracython\src\main.cpp
+	<cstdio>
+	<string>
+	<fstream>
+	<algorithm>
+	"headers/Parser.hpp"
+	"headers/ImportManager.hpp"
+
+1663753570 source:c:\users\nickm\documents\cppprojects\eclipse\bracython\src\importmanager.cpp
+	"headers/ImportManager.hpp"
+	<fstream>
+
+1663749780 c:\users\nickm\documents\cppprojects\eclipse\bracython\include\importmanager.hpp
+	<string>
+	<list>
+
+1663754110 source:c:\users\nickm\documents\cppprojects\eclipse\bracython\src\parser.cpp
+	"headers/Parser.hpp"
+	<cstdio>
+	<algorithm>
+	<fstream>
+	<cmath>
+
+1663749792 c:\users\nickm\documents\cppprojects\eclipse\bracython\include\parser.hpp
+	<list>
+	<string>
+
+1663754142 c:\users\nickm\documents\cppprojects\eclipse\bracython\src\headers\importmanager.hpp
+	<string>
+	<list>
+
+1663753891 c:\users\nickm\documents\cppprojects\eclipse\bracython\src\headers\parser.hpp
+	<list>
+	<string>
+
